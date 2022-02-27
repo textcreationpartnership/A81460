@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The difference between an usurper and a lawfull prince, explained in their several characters, for the satisfaction of all men.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81460</idno>
+            <idno type="STC">Wing D1418</idno>
+            <idno type="STC">Thomason E902_2</idno>
+            <idno type="STC">ESTC R206755</idno>
+            <idno type="EEBO-CITATION">99865860</idno>
+            <idno type="PROQUEST">99865860</idno>
+            <idno type="VID">168438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168438)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 135:E902[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The difference between an usurper and a lawfull prince, explained in their several characters, for the satisfaction of all men.</title>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 27 1656."; the 7 in imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Succession --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168438:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <p>THE DIFFERENCE Between AN USURPER And a LAWFULL PRINCE, EXPLAINED In their ſeveral Characters, for the ſatisfaction of all men.</p>
+            <p>Printed in the year, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div n="usurper" type="character">
+            <pb facs="tcp:168438:2"/>
+            <!-- PDF PAGE 18 -->
+            <pb n="1" facs="tcp:168438:2"/>
+            <!-- PDF PAGE 18 -->
+            <head>THE CHARACTER OF AN USURPER, That hath no Title at all.</head>
+            <p>AN Uſurper without any Title is one that neceſ<g ref="char:EOLhyphen"/>ſitates himſelf to be alwayes a Tyrant; For as a Thief after ſome few notorious detected Rob<g ref="char:EOLhyphen"/>beries, knows he muſt alwayes remaine an Out-law; ſo he that uſurpes a power with a Faction or part of the people to diſpoſe of the Lives, Liberties and Fortunes of a whole Nation at his pleaſure, knows himſelf to be ſo publick a Robber and exaſperater of all intereſts, that he is neceſsitated to hate the Laws that would pu<g ref="char:EOLhyphen"/>niſh him, and by conſequence thoſe people moſt who are moſt zealous for their preſervation; That is to ſay, all people that have Fortunes to be prey'd upon, and all who have reputation and intereſt in their Countrey to diſturb him, and all who conſcienciouſly adhere to former rules, contracts, proteſtations, oathes and agreements, for liberty of their fortunes, perſons, or
+<pb n="2" facs="tcp:168438:3"/>
+               <!-- PDF PAGE 19 -->Conſciences. For ſelf-preſervation will as neceſſarily teach him to hate, as to fear all theſe, though perhaps they are too many to feel the effects of his diſpleaſure all at once. But to oppoſe all theſe enemies he muſt forti<g ref="char:EOLhyphen"/>fie himſelf with people of as contrary tempers, princi<g ref="char:EOLhyphen"/>ples and intereſts, (that is, with ſuch as have no repu<g ref="char:EOLhyphen"/>tation, fortunes, or religious principles) that they may neither care nor fear to ſeize on the perſons, or fortunes of any honeſt men; or cut their throats for their Ma<g ref="char:EOLhyphen"/>ſters, or their own advantage, who is to raiſe himſelf and them to greatneſs out of other mens ruines: &amp; he muſt have ſo great an Army of ſuch impious &amp; deſperate per<g ref="char:EOLhyphen"/>ſons to ſecure his ill-gotten Power, that they are ſeldom to be found in any one Nation; but he muſt at laſt be forced after the raiſing of one Militia (and then finding moſt of them unfitting for his ends) to raiſe new Guards for the ſecuring of his intereſt; and in concluſion by continuance of his diſ-ſatisfaction in the people of all principles, and by conſequence of the far greater part of the whole Nation, he is forced at laſt to rely upon forreign Guards for the ſecuring of an intereſt ſo con<g ref="char:EOLhyphen"/>trary to that of the whole Nation; and ſo becauſe his Countrey hath not Rogues enough to ſurpreſs it, the reſt of the world muſt be raked to find them out. And this is ſo conſequent a calamity, that no Uſurper can avoid it, though he would encline to moderation; for he that hath once acted againſt the affections, and intereſt of a Nation, muſt have a National power to defend him, and he muſt maintain this power, with a heavy burden to the Nation. And all this power is ſo far from ſecuring the people where it is, that it rather entails quarrels upon them: For there is no Tyrannie
+<pb n="3" facs="tcp:168438:3"/>
+               <!-- PDF PAGE 19 -->like the inſolent government of a great Army, which will as much irritate the people againſt them, as the ne<g ref="char:EOLhyphen"/>ceſſity of a recovering their ancient rights. And though part of the people would acquieſce under the burden of the great Taxes, that muſt maintain his great power; yet ſtill there will be a contentious and neceſſitous par<g ref="char:EOLhyphen"/>ty, that will be ready to give the Nation a purge and letting bloud, to recover it of the languiſhing conſumpti<g ref="char:EOLhyphen"/>on of its oppreſſion and ſlavery, rather then to expoſe it to thoſe perpetual diſtempers, that will flow from the endeavours of the legal excluded government, which hath reaſon to make uſe of any forreign aſſiſtance for the recovery of its own and the Nations Rights, and will never deſiſt though after many repulſes, from renewing the quarrel, till the Nation grows unanimous againſt uſurpation with the bitter fruits of diſtraction and op<g ref="char:EOLhyphen"/>preſſion that ſo neceſſarily attend it. And I conceive nothing to be more evident, then that ſuch an Uſurper can never with his ſafety quit his Tyranny though he would; but muſt proceeed from one injury to another, till he arrive at the higheſt extreame. For beſides the unlimitted power that he muſt exerciſe himſelf for the ſecurity and maintenance of his authority, with his fel<g ref="char:EOLhyphen"/>low Thieves and Murderers againſt his honeſt enemies, he muſt transfer the ſame unlimited power, in every Province, into as ill hands as his own, upon the ſame pretence of ſafrey, and they cannot chuſe but multiply their injuries by the ſame rules that he doth; for be<g ref="char:EOLhyphen"/>ſide their charge of maintaining their particular Power, and unſatiable avarice, and their having the ſame quar<g ref="char:EOLhyphen"/>rel that he hath to all free minded and conſcientious perſons, they will fall more particular heavy upon ſome
+<pb n="4" facs="tcp:168438:4"/>
+               <!-- PDF PAGE 20 -->out of malice, and others as they are more eminent and popular, and by conſequence where any one family is exceſſively oppreſt, they think they muſt needs be ha<g ref="char:EOLhyphen"/>ted by all its kindred and alliance; and ſo evere ſingle injury begets a neceſſary offering of many more, ac<g ref="char:EOLhyphen"/>cording to their Maximes of illegally puniſhing all whom they ſhall think they have cauſe enough to ſuſ<g ref="char:EOLhyphen"/>pect, and by conſequence to hate and ſuppreſs; by which it is evident that no man can ſcape this many-headed Monſter with ſo ſharp teeth, but thoſe who will make themſelves ſubordinate beaſts of prey.</p>
+         </div>
+         <div n="prince" type="character">
+            <pb n="5" facs="tcp:168438:4"/>
+            <!-- PDF PAGE 20 -->
+            <head>THE CHARACTER Of a Lawfull PRINCE, Tied to Rules by the Peoples conſent.</head>
+            <p>A Well-regulated Prince eſtabliſhed by the uni<g ref="char:EOLhyphen"/>verſal conſent of the People of one or many ages, without any ambiguity in his Title, whether it be Succeſſive or Elective, is a felicity beſt known to thoſe who have felt the Calamity of an Uſur<g ref="char:EOLhyphen"/>per; for he is eſtabliſhed in ſo ſecure and high a pro<g ref="char:EOLhyphen"/>ſperity, that he muſt be guilty of as much folly as in<g ref="char:EOLhyphen"/>juſtice, to hazard that eminent happineſs for any thing which he doth not want, and that no neceſſity can ob<g ref="char:EOLhyphen"/>lige him to a conſtant continued courſe of oppreſſion is ſo evident, that it is more againſt his intereſt to offer at it, then it would be of ſome extravagant perſon that had twenty thouſand pounds <hi>per annum,</hi> to ſpend hiss whole time in robberies, with the perpetual hazard of his
+<pb n="6" facs="tcp:168438:5"/>
+               <!-- PDF PAGE 21 -->life and ſo great a fortune together with infamy. And this hath been ſo manifeſt in the worſt of our weak and wicked Kings in <hi>England</hi> ſince the Conqueſt, that though they have ſometimes raiſed forces and moneys too unjuſtly, yet none of them went about to eſtabliſh the firſt for the maintenance of their latter injuſtice; but when they have had their preſent wills, they have (without any continuance of bloud and oppreſſion) fal<g ref="char:EOLhyphen"/>len into their old Channels again with but few exam<g ref="char:EOLhyphen"/>ples of their Cruelty becauſe they had but few or no Competitors, to make them fear ſo much as to be cruel, unleſs they would make the People ſo, by the folly of their continued preſſures, to the hazard of their own well eſtabliſhed intereſts, which all of them were ſo counſelled if not ſo wiſe to avoid. And if we conſi<g ref="char:EOLhyphen"/>der how little charge, the avarice of profuſeneſs of one family with half a dozen favorites, and their depen<g ref="char:EOLhyphen"/>dants can be to a whole Nation; we may conclude that it cannot be the intereſt of any lawful Prince, that makes a Nation miſerable, but onely the neceſſities of him that muſt alwayes maintain thouſands of as bad people as himſelf to ſeize upon the Perſons and Seque<g ref="char:EOLhyphen"/>ſter the Eſtates of whomſoever their intereſt leads them to ſeem to be affraid of for the diſturbance of their ill-gotten power.</p>
+            <p>And if we conſider the education of hereditary Prin<g ref="char:EOLhyphen"/>ces, we ſhall find them put into the beſt Maſters hands that can be found, to infuſe Wiſdome, Learning, Pi<g ref="char:EOLhyphen"/>ety, and an high ſence of honour into them with ſo great a care, that they muſt be natural fools, or perſons of extraordinary abilities. And Machiavil himſelf tea<g ref="char:EOLhyphen"/>cheth them to be no more wicked then needs muſt, and
+<pb n="7" facs="tcp:168438:5"/>
+               <!-- PDF PAGE 21 -->therefore his Rules are more appliable to an Uſurper then a lawful Prince, who having a great reverence and power legally inveſted in him, hath more intereſt then any other perſon in the preſervation of thoſe mutual Laws between him and his people in a regulated and mixt government: and we finde in our Civil Wars of <hi>England,</hi> that they flowed more from uſurpation then any other cauſe, though thoſe Uſurpers could not be ſo cruel who had but one or two Competitors, as he muſt be who hath thouſands.</p>
+            <p>And to ſpeak a little of the excellent conſtitution of our Laws, we finde they did almoſt provide for all ha<g ref="char:EOLhyphen"/>zards, for though the Militia were ſolely in a ſingle per<g ref="char:EOLhyphen"/>ſon, for the more ready common defence, yet the armes were in the Countrey-mens hands by the name of Trained bands, who were not obliged to any duty out of their own Countrey; that there might be al<g ref="char:EOLhyphen"/>moſt an impoſſibility of drawing a power together, to enſlave the People without their conſents; eſpecially ſince theſe Trained bands were commanded neither by Courtiers, nor neceſſitous ſtrangers, but Lord Lieute<g ref="char:EOLhyphen"/>nants, and Deputy Lieutenants of their own Countrey, who were men of too great fortunes and intereſt in their Countrey to contribute to the enſlaving of it, and their own poſterity together.</p>
+            <p>And the Civil parts of our Government appear no leſs excellent then the Military, for as the liberty of our Perſons and Eſtates are provided for by frequent and Free Parliaments, who onely could diſpoſe of our purſes, as appears by <hi>Magna Charta,</hi> and other excel<g ref="char:EOLhyphen"/>lent Laws; ſo leſt Parliaments themſelves ſhould uſurp a perpetual and unlimited power of a many-headed and
+<pb n="8" facs="tcp:168438:6"/>
+               <!-- PDF PAGE 22 -->immortal Tyrannie, which they are as naturally apt to grow to as Kings; as they are men a negative pow<g ref="char:EOLhyphen"/>er was alwayes thought neceſſary to remaine in the worſt of our Kings, when the people had them at the great<g ref="char:EOLhyphen"/>eſt advantages, leſt a faction of ſubtle and ambitious ill people, ſhould delude a Parliament with their pre<g ref="char:EOLhyphen"/>meditated ſpeeches, or by the help of force procure ſuddain and deſtructive Votes to all our Laws and Li<g ref="char:EOLhyphen"/>berties for the advancement of their own Autority. For our Anceſtors knew they had ſo well provided for our lives, liberties, and properties, that it was more our own concernment to preſerve our good old Laws al<g ref="char:EOLhyphen"/>ready eſtabliſhed, then the making of any new ones could be to us; and though Parliaments are the beſt Conſervators of Liberty, yet all grant unlimited Coun<g ref="char:EOLhyphen"/>cells are ſubject to decline into Factions and confuſion, which is he worſt of Tyrannies; for we will ſuppoſe what we have formerly ſeen is like to be ſo again; and to go no farther for an example, the late long Parlia<g ref="char:EOLhyphen"/>ment, before it had quite ſubdued the King was divided into a Presbyterian and Independent Faction, and had not the Army proved all Independent, we had ſeen thoſe ſparks of a war which were then kindled, grow to a great flame: And were there a free and abſolute Inde<g ref="char:EOLhyphen"/>pendent Parliament, experience hath taught us, that we are to expect no leſs animoſity between the Indepen<g ref="char:EOLhyphen"/>dents and Anabaptiſts, and other ſubdiviſions of Sects, who would take part with the weaker Faction for the pulling down of the ſtronger; as all thoſe did that ſhel<g ref="char:EOLhyphen"/>tred themſelves under the name of Independents againſt the Presbyterians; and as they had formerly done againſt the Epiſcopal party. And it muſt be alwayes
+<pb n="9" facs="tcp:168438:6"/>
+               <!-- PDF PAGE 22 -->thus, for intereſt will make uſe of zeal to drive on Con<g ref="char:EOLhyphen"/>federacies, and if one Faction have the major part in a Vote one day, the other will find opportunities to un<g ref="char:EOLhyphen"/>vote it another day, either by a new ſtate of the Que<g ref="char:EOLhyphen"/>ſtion, or getting earlier into the Houſe, or by corrupt<g ref="char:EOLhyphen"/>ing of ſome, or watching the abſence of others of their adverſaries, till their animoſities grow from contradi<g ref="char:EOLhyphen"/>ctory Votes, to Declarations, Proſcriptions, Seiſures, and at laſt to blows, with the miſeries that attend them. And thus we ſee how our Laws, Liberties and Peace it ſelf may be voted from us in a tumultuary haſt; if there be not a negative to this abſolute power, which is ſo much the worſe, the more avaritious intereſts it con<g ref="char:EOLhyphen"/>ſiſts of, though it were onely for the oppreſſion without danger of confuſion; which our Anceſtors knew to be ſo much the worſt of all evils, that they preferred the worſt of hereditary Princes, before the beſt new elect<g ref="char:EOLhyphen"/>ed perſon, or form of Government that muſt be main<g ref="char:EOLhyphen"/>tained with an oppreſſing force and many ſucceſſive Quarrels.</p>
+            <p>And now I ſhall deſire all men to conſider the obli<g ref="char:EOLhyphen"/>gation that every honeſt man hath to any particular con<g ref="char:EOLhyphen"/>tract with his Neighbour, and how much greater that muſt be to all men of honour, Religion, or Morall honeſty, which involves all intereſts as certainly that implicite reciprocall contract between a People and their lawful Governour, or Governours doth, which is or ought to be confirmed by the ſolemnity of mutual Oathes; ſince there can be no ſecurity, or protection of all intereſts where ſubjects are not obliged to an active, as well as a paſſive obedience of their Superi<g ref="char:EOLhyphen"/>ours. For the office of Governours is to protect the
+<pb n="10" facs="tcp:168438:7"/>
+               <!-- PDF PAGE 23 -->lives, liberties, and eſtates of all their ſubjects, againſt any forreign or domeſtick power that would uſurpe up<g ref="char:EOLhyphen"/>on them. But if every particular perſon will judge when it is fit to obey or aſſiſt his Governour, accord<g ref="char:EOLhyphen"/>ing to the rule of his own intereſt, the whole govern<g ref="char:EOLhyphen"/>ment can be but a mockery, and men can have no more ſecurity or property then beaſts where the ſtronger prey upon the weaker at their pleaſure. And our Laws which are grounded upon Religion and reaſon, do give us a clear evidence of this in caſe of murder; where any man that hinders not a ſingle murther is made an acceſſary: and how much greater muſt the obligation be in caſe of Treaſon; that comprehends ſo many murthers, ra<g ref="char:EOLhyphen"/>pines, and miſeries of all ſorts, that the ſame Laws do ruine the poſterity of Traytors for their offences; and with very great reaſon, for they that attempt to diſ<g ref="char:EOLhyphen"/>ſolve a legally eſtabliſhed Government by force, though they were ſure they intended a better form, are ſtill the worſt of men: For ſince mens reaſons are weak and various, and all forms of government diſputable in themſelves, and that men do naturally oppoſe any thing they are unjuſtly compelled to, how reaſonable ſoever in it ſelf, ſuch Uſurpers can hope for nothing but to entail diſtractions with their many conſequent calamities upon their Countrey for many ages, till the memory of the ſecurity and liberty they have loſt be quite worn out of the Nation. And if the poſſeſſion of any ſuch ill-gotten power, ſhall be pretended to make it lawful, it is ſuch an incouragement to the higheſt of all ſorts of villanies, that no real Chriſtian can have the impudence to argue a thing ſo deſtructive to the proper<g ref="char:EOLhyphen"/>ty of all good men.</p>
+            <pb n="11" facs="tcp:168438:7"/>
+            <!-- PDF PAGE 23 -->
+            <p>And to conclude, let every man examine how poſitively the word of God obligeth us to obey the higher powers; and whether <hi>Saul</hi> a wicked King, and <hi>Cyrus</hi> a heathen, were not called his anointed: Let us know that we are not to diſſolve all bonds of humane ſafety at our pleaſure, by making our ſelves judges of thoſe whom we have conſented to be our Judges, when and how we ought to obey them, for our publick de<g ref="char:EOLhyphen"/>fence, though God did never intend thoſe texts for the protection of the immediate ſubverters of the lawfull authority they are ſubject to, which all men of Con<g ref="char:EOLhyphen"/>ſcience and honour are as much bound with their lives and fortunes to obey out of poſſeſſion, as in it: ſince that can leſs alter a publick right then any other claime. And ſince God who could have planted the Chriſtian Religion by the Sword, declined this way, it is evi<g ref="char:EOLhyphen"/>dent that he is called the Lord of ſuch Hoſts, as are for the defence of common right, and the protection of in<g ref="char:EOLhyphen"/>nocents againſt their oppreſſors, and onely ſuch ſouldi<g ref="char:EOLhyphen"/>ers are men of an univerſal charity, and the true men of honour; for all the reſt are monſtrous Thieves, Mur<g ref="char:EOLhyphen"/>derers, betrayers of their Countrey, and enemies of man kind; whoſoever neglects a ſeaſonable oppoſition of ſuch oppoſers and betrayers of their Countreys truſt, are acceſſaries to all its Bloud, Rapine, and Slavery.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
